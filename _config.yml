@@ -3,7 +3,7 @@ subtitle: A Portfolio Page For My Gamedev Work
 description: >- # this means to ignore newlines until "baseurl:"
   I am a Computer Games Design student studying at the University of Staffordshire
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "" # the base hostname & protocol for your site, e.g. https://liammb.github.io
 baseurl: "/" # the subpath of your site, e.g. /blog
 
 # Navigation
@@ -53,12 +53,12 @@ author_project_details:
               - project_thumbnail: coalesce.png
                 project_title: Coalesce
                 project_description: An asymmetrical co-op arcade game which got ported onto a University of Staffordshire Arcade machine
-                project_url: http://floretdev.com/blog/midnight-transmission/
+                project_url: https://liammib.github.io/blog/coalesce/#/
                 visibility: true
               - project_thumbnail: pushyplushy.png
                 project_title: Pushy Plushy
                 project_description: A verticle slice of a 4 player party game made in a collaborative module where I was a junior designer
-                project_url: http://floretdev.com/blog/goblin-with-a-gun/
+                project_url: https://liammib.github.io/blog/pushy-plushy/#/
                 visibility: true
               - project_thumbnail: controllerclash.png
                 project_title: Controller Clash
