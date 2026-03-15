@@ -25,13 +25,13 @@ author_website_url: "liammiburns.github.io"
 typewrite-text: A passionate gamedev engineer who loves to code #Isnt real
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 # Experiences
-author_work_experiences:
-            - company_name: University of Staffordshire
-              company_logo: staffs.png
-              company_url: https://www.staffs.ac.uk/student-life/student-ambassador-scheme
-              designation: Student Ambassador
-              description: Worked both solo and as a collective to foster people's interest in the university as well as helping the staff at the university.
-              visibility: false
+#author_work_experiences:
+            #- company_name: University of Staffordshire
+            #  company_logo: staffs.png
+            #  company_url: https://www.staffs.ac.uk/student-life/student-ambassador-scheme
+             # designation: Student Ambassador
+            #  description: Worked both solo and as a collective to foster people's interest in the university as well as helping the staff at the university.
+             # visibility: false
 
 # Education
 author_education_details:
