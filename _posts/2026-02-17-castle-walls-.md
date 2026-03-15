@@ -1,16 +1,24 @@
 ---
 layout: post
-title:  "Portfolio Template"
-summary: "Summary of Portfolio Piece (Results, lessons)"
+title:  "Castle Walls"
+summary: "A Celeste level made in Lönn for the experimental level design module"
 author: floretdev
-date: '2025-10-25 15:20:00 +0100'
+date: '2026-02-17'
 category: portfolio
-thumbnail: /assets/img/posts/code.jpg
-keywords: template, portfolio, gamedev
-permalink: /blog/portfolio-template/
+thumbnail: /assets/img/posts/castlewalls.jpg
+keywords: celeste, level design, castle walls, portfolio, gamedev
+permalink: /blog/castle-walls/
 usemathjax: true
 ---
 
+
+> **Game Engine/Language**: Lönn
+
+> **Role**: Solo Dev
+
+> **Duration of Work**: 8 Weeks
+
+> **End Of Project**: 17th February 2026
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
