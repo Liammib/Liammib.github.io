@@ -7,7 +7,7 @@ date: '2025/12/09'
 category: portfolio
 thumbnail: "/assets/img/posts/tundramill.png"
 keywords: hammer, tf2, team foretress 2 , multiplayer , level design, portfolio, gamedev
-permalink: "/blog/goblin-with-a-gun/"
+permalink: "/blog/tundramill/"
 usemathjax: true
 ---
 
@@ -29,7 +29,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3592312340
 
 Here are some of the designs I originally came up with for this map:
 
-mapdesign1.png
+/assets/img/posts/mapdesign1.png
 
 mapdesign2.png
 

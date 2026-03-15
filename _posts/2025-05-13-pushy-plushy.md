@@ -21,7 +21,7 @@ usemathjax: true
 
 Made for my "Junior Collaborative" Module, Pushy Plushy is a polished couch versus party game made by a group called Thinking Brick Studios.
 
-I was a junior designer on the team who contributed with design work as well as documentation and juicing. 
+I was a junior designer on the team who contributed with game, mechanic, level and UI/UX design work as well as documentation and juicing. 
 
 Below is the steam page for the game:
 

@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Chatterbox"
-summary: "A Unity Experiment Node Graph Tool to Create and Use Dialogue for Games"
-author: floretdev
-date: '2025-05-17 17:00:00 +0000'
+title:  "Controller Clash"
+summary: "A platform fighter prototype with 4 different controllers"
+author: Liammb
+date: '2026-02-17'
 category: portfolio
-thumbnail: /assets/img/posts/chatterbox.png
-keywords: unity, dialogue, nodes, experimental node graph, portfolio, gamedev
-permalink: /blog/chatterbox/
+thumbnail: /assets/img/posts/controllerclash.png
+keywords: unity, controllers, platform fighter, experimental, portfolio, gamedev
+permalink: /blog/controller-clash/
 usemathjax: true
 ---
 
 
-> **Game Engine/Language**: Unity / C#
+> **Game Engine/Language**: Unity 6000.1.17f1 / C#
 
 > **Role**: Solo Dev
 
@@ -20,17 +20,10 @@ usemathjax: true
 
 > **End Of Project**: 17th May 2025
 
->**Github Repository**: [Click Here!](https://github.com/Transference-OperatorHaven/ChatterBox-UnityProject)
+This was my Game Development Project Artifact which is consisted of two modules worth of work. My project was based on the problem that controller usage has become too 'safe' and every modern gamepad is the same.
 
-Chatterbox is the engine tool I made for my uni module "Tools Development". It is a node based dialogue creation system that allows for a hassle free way to implement dialogue into a unity game. It features many things such as branching dialogue, grouping of dialogue, saving/loading, error handling and many other features.
+To combat this issue, I decided to make a platform fighter where each fighter is controlled by a different controller type.
 
-This was a unique challenge for me and I really enjoyed working on it and further cemented an admiration for tools creation for games.
+I designed and implemented each character to be complimented by the controller used to pilot them.
 
-This is a preview image of what the UI looks like:
-
-![UI](https://staffs-daforum-1.s3.eu-west-2.amazonaws.com/monthly_2025_05/image.thumb.png.8b6555c5a6c6bb754cb9d6fdb764f2cf.png)
-
-
-Below is a video demonstrating the tool:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PcaYr3Qlz60?si=rYSjcqtjgrpxpr6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
- 
+From this project, I came out with a completed prototype, a design document, and an artifact development report.
