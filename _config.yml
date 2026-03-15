@@ -29,9 +29,9 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
             #- company_name: University of Staffordshire
             #  company_logo: staffs.png
             #  company_url: https://www.staffs.ac.uk/student-life/student-ambassador-scheme
-             # designation: Student Ambassador
+            #  designation: Student Ambassador
             #  description: Worked both solo and as a collective to foster people's interest in the university as well as helping the staff at the university.
-             # visibility: false
+            #  visibility: false
 
 # Education
 author_education_details:
