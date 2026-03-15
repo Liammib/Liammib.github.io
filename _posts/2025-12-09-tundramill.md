@@ -29,7 +29,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3592312340
 
 Here are some of the designs I originally came up with for this map:
 
-/assets/img/posts/mapdesign1.png
+"/assets/img/posts/mapdesign1.png"
 
 mapdesign2.png
 

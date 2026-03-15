@@ -25,7 +25,7 @@ I was a junior designer on the team who contributed with game, mechanic, level a
 
 Below is the steam page for the game:
 
-
+https://store.steampowered.com/app/4365120/Pushy_Plushy/
 
 Below is some of the Design Documentation that I contributed to:
 
