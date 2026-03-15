@@ -5,7 +5,7 @@ summary: "A Celeste level made in Lönn for the experimental level design module
 author: Liammb
 date: '2026-03-15'
 category: portfolio
-thumbnail: /assets/img/posts/castlewalls.jpg
+thumbnail: /assets/img/posts/castlewalls.png
 keywords: celeste, level design, castle walls, portfolio, gamedev
 permalink: /blog/castle-walls/
 usemathjax: true
