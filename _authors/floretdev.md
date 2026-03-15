@@ -1,17 +1,8 @@
 ---
-name: Haven Blakely-Rivers
-username: floretsoftware
-bio: "I am an undergraduate at University Of Staffordshire studying Games Design and Programming. I really enjoy coding and find the logic based nature of it easy to grasp and understand. I can also communicate well and work as a team because of my job as a Student Ambassador. I want to pursue a career where coding is my everyday and I work with people to make games that inspire others to make games."
-site: http://floretdev.com
+name: Liam Burns
+username: Liammb
+bio: "I am an undergraduate at University Of Staffordshire studying Computer Games Design."
+site: https://liammib.github.io/#/
 avatar: avatar.png
-email: floretdev@gmail.com
-social:
-    - title: "github"
-      url: "https://github.com/Transference-OperatorHaven"
-    - title: "linkedin"
-      url: "https://www.linkedin.com/in/floretsoftware"
-    - title: "youtube"
-      url: "https://www.youtube.com/@FloretSoftware"
-    - title: "twitter"
-      url: "https://www.twitter.com/floretsoftware"
+email: liammiburns@gmail.com
 ---
