@@ -3,7 +3,7 @@ layout: post
 title:  "Controller Clash"
 summary: "A platform fighter prototype with 4 different controllers"
 author: Liammb
-date: '2026-02-17'
+date: '2026-03-15'
 category: portfolio
 thumbnail: /assets/img/posts/controllerclash.png
 keywords: unity, controllers, platform fighter, experimental, portfolio, gamedev

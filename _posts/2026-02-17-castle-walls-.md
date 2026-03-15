@@ -2,8 +2,8 @@
 layout: post
 title:  "Castle Walls"
 summary: "A Celeste level made in Lönn for the experimental level design module"
-author: floretdev
-date: '2026-02-17'
+author: Liammb
+date: '2026-03-15'
 category: portfolio
 thumbnail: /assets/img/posts/castlewalls.jpg
 keywords: celeste, level design, castle walls, portfolio, gamedev
@@ -28,7 +28,7 @@ To make this, I needed to learn Lönn which was a challenge but became second na
 
 I also made sure the level looked aesthetically nice when making it and tied in features of the map editor such as stylegrounds and tile palettes.
 
-Here is a video showcasing the level in full: https://youtu.be/4vZNUx2TJAY
+Here is a video showcasing the level in full:
 
-<iframe width="560" height="315" src="https://youtu.be/4vZNUx2TJAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4vZNUx2TJAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
