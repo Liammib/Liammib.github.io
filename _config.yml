@@ -63,17 +63,17 @@ author_project_details:
               - project_thumbnail: controllerclash.png
                 project_title: Controller Clash
                 project_description: A platform fighter prototype made in Unity utilising 4 different controllers
-                project_url: http://floretdev.com/blog/unreal-stealth/
+                project_url: https://liammib.github.io/blog/controller-clash/#/
                 visibility: true
               - project_thumbnail: tundramill.png
                 project_title: KOTH_TundraMill
                 project_description: A Team Foretress 2 multiplayer map, planned out and iterated on with testing and made in the Hammer engine
-                project_url: http://floretdev.com/blog/chatterbox/
+                project_url: https://liammib.github.io/blog/tundramill/#/
                 visibility: true
               - project_thumbnail: castlewalls.png
                 project_title: Castle Walls
                 project_description: A Celeste map made in an experimental level design module focusing on mechanic led design
-                project_url: http://floretdev.com/blog/chatterbox/
+                project_url: https://liammib.github.io/blog/castle-walls/#/
                 visibility: true
 
 # social links
