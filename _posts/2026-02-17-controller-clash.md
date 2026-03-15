@@ -27,3 +27,7 @@ To combat this issue, I decided to make a platform fighter where each fighter is
 I designed and implemented each character to be complimented by the controller used to pilot them.
 
 From this project, I came out with a completed prototype, a design document, and an artifact development report.
+
+Here is a timeline of the project's development:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NQibUsluYvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
