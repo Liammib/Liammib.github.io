@@ -10,6 +10,7 @@ gem 'csv'
 gem 'base64'
 gem 'rackup'
 gem "sinatra", ">= 3", "< 4"
+gem "ostruct"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.

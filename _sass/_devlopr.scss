@@ -12,7 +12,7 @@ html[data-theme="dark"] {
     --highlight-color: hsl(0, 0%, 60%);
     --light-border-color: hsl(0, 0%, 30%);
     --light-text-color: rgb(199, 199, 204);
-    --link-color: #5e17eb;
+    --link-color: #1560eb;
     --link-color-visited: hsl(250, 100%, 60%);
     --main-background-color: rgb(28, 28, 30);
     --main-text-color: rgb(139, 139, 139);
@@ -53,7 +53,7 @@ html[data-theme="light"] {
         --highlight-color: hsl(0, 0%, 60%);
         --light-border-color: hsl(0, 0%, 30%);
         --light-text-color: rgb(199, 199, 204);
-        --link-color: #5e17eb;
+        --link-color: #1560eb;
         --nav-color: #131313;
         --search-color: #5e17e9;
         --nav-link-color: rgba(255, 255, 255, .5);
@@ -111,12 +111,12 @@ ol, ul {
 
 /* Progress bar */
 .progressline .bar {
-    background: #5e17eb;
+    background: #1560eb;
 }
 
 /* On scroll progress bar */
 #progress-bar {
-    background: linear-gradient(to right, #5e17eb var(--progress), transparent 0);
+    background: linear-gradient(to right, #1560eb var(--progress), transparent 0);
     height: 5px;
     position: fixed;
     width: 100%;
@@ -240,7 +240,7 @@ header {
 }
 
 .navbar-dark .navbar-brand {
-    color: #5e17eb !important;
+    color: #1560eb !important;
 }
 .navbar-dark .navbar-nav .nav-link {
     color: var(--nav-link-color) !important;
@@ -316,7 +316,7 @@ header {
         width: 5%;
         cursor: pointer;
         text-align: center;
-        color: #5e17eb;
+        color: #1560eb;
 
       .icon {
         vertical-align: text-top;
@@ -324,7 +324,7 @@ header {
         fill: #fff;
 
         &:hover {
-          fill: #5e17eb;
+          fill: #1560eb;
           transform: rotate(90deg);
         }
       }
@@ -349,7 +349,7 @@ header {
         position: absolute;
         top: 10%;
         width: 100%;
-        color: #5e17eb;
+        color: #1560eb;
         background: rgba(0, 0, 0, 0);
         font-size: 30px;
         font-weight: 300;
@@ -405,12 +405,12 @@ header {
         text-decoration: none;
         font-size: 25px;
         line-height: 25px;
-        color: #5e17eb !important;
+        color: #1560eb !important;
         text-decoration: none;
       }
 
       &__date {
-        color: #5e17eb;
+        color: #1560eb;
         font-size: 15px;
         line-height: 15px;
       }
@@ -492,7 +492,7 @@ header {
 }
 
 .snipcart-modal__close-title {
-    color: #5e17eb !important;
+    color: #1560eb !important;
 }
 .snipcart__button--icon {
     border: 0px solid #f0f5f6 !important;
@@ -547,7 +547,7 @@ header {
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    color: #5e17eb;
+    color: #1560eb;
 }
 
 .product{
@@ -657,7 +657,7 @@ header {
 }
 .article-card-link, .article-card-link:hover{
     text-decoration: none;
-    color: #5e17eb !important;
+    color: #1560eb !important;
 }
 .article-card{
     list-style-type: none;

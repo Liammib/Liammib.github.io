@@ -1,32 +1,25 @@
 ---
-title: Goblin with a Gun
+title: KOTH_TundraMill_
 layout: post
-summary: An endless wave based top-down arena shooter with dynamic stats and a boss
-  fight!
-author: floretdev
-date: '2024-03-01 17:00:00 +0000'
+summary: A Team Foretress 2 map made in the Hammer engine.
+author: Liammb
+date: '2025/12/09'
 category: portfolio
-thumbnail: "/assets/img/posts/goblinwithagun.png"
-keywords: unity, goblin, with , a , gun, portfolio, gamedev
+thumbnail: "/assets/img/posts/tundramill.png"
+keywords: hammer, tf2, team foretress 2 , multiplayer , level design, portfolio, gamedev
 permalink: "/blog/goblin-with-a-gun/"
 usemathjax: true
 ---
 
-> **Game Engine/Language**: Unity / C#
+> **Game Engine/Language**: Hammer
 
 > **Role**: Solo Dev
 
 > **Duration of Work**: 8 Weeks
 
-> **End Of Project**: 1st March 2024
+> **End Of Project**: 9th December 2025
 
->**Github Repository**: [Click Here!](https://github.com/Transference-OperatorHaven/CSharp-Uni-Game)
- 
-
-**Game Page** :
-<iframe height="167" frameborder="0" src="https://itch.io/embed/2558100" width="552"><a href="https://floretsoftware.itch.io/goblin-with-a-gun">Goblin with a Gun by Floret Software</a></iframe>
-
-This was a solo project I made for a university module. It is a feature complete endless top down shooter with dynamic stats, guns and even a boss fight every ten waves. I'm super proud of this game.
+This was a solo project I made for a university module. I drafted up multiple map designs and 
 
 The videos below showcase the gameplay as well as the variety of guns featured in the game.
 

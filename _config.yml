@@ -1,7 +1,7 @@
 title: Liam's Portfolio
 subtitle: A Portfolio Page For My Gamedev Work
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a level 6 Games Design & Programming student at the University of Staffordshire and a passionate games engineer
+  I am a Computer Games Design student studying at the University of Staffordshire
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -17,12 +17,12 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: Haven Blakely-Rivers
-author_bio: I am an undergraduate at University Of Staffordshire studying Games Design and Programming. I really enjoy coding and find the logic based nature of it easy to grasp and understand. I can also communicate well and work as a team because of my job as a Student Ambassador. I want to pursue a career where coding is my everyday and I work with people to make games that inspire others to make games.
-author_email: "floretdev@gmail.com"
+author: Liam Burns
+author_bio: I am an undergraduate at University Of Staffordshire studying Computer Games Design. Mechanics and Technical Design are my favourite aspects of game design but I am able to do any general design work. I enjoy working in a team to refine and condense ideas to help make a better product.
+author_email: "liammiburns@gmail.com"
 author_location: Stoke-On-Trent, UK
-author_website_url: "floretdev.com"
-typewrite-text: A passionate gamedev engineer who loves to code
+author_website_url: "liammiburns.github.io"
+typewrite-text: A passionate gamedev engineer who loves to code #Isnt real
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 # Experiences
 author_work_experiences:
@@ -31,52 +31,57 @@ author_work_experiences:
               company_url: https://www.staffs.ac.uk/student-life/student-ambassador-scheme
               designation: Student Ambassador
               description: Worked both solo and as a collective to foster people's interest in the university as well as helping the staff at the university.
-              visibility: true
+              visibility: false
 
 # Education
 author_education_details:
               - college_logo: staffs.png
                 college_name: University Of Staffordshire
                 college_url: https://www.staffs.ac.uk
-                college_degree: BSc Games Design and Programming (Sept. 2023 - Ongoing)
-                description: Bachelor of Science Degree With a Primary Focus on Programming supplimented by games design
+                college_degree: BSc Computer Games Design <br> (Sept. 2023 - Ongoing)
+                description: Bachelor of Science Degree which covers all aspects of Games Design
                 visibility: true
-              - college_logo: mit.png
-                college_name: Access Creative College
-                college_url: https://www.accesscreative.ac.uk/
-                college_degree: BTEC Level 3 Games Design (Sept. 2021 - July 2023)
-                description: BTEC Degree at the Norwich campus where i learnt the basics of games design and creation
+              - college_logo: asfc.png
+                college_name: Ashton Sixth Form College
+                college_url: https://www.asfc.ac.uk/
+                college_degree: A-level Computer Science <br> Digital Games Production (Extended Certificate) <br> Information Technology   (Extended Certificarte) <br> (Sept. 2021 - July 2023)
+                description: Sixth Form College where I studied two computer related courses and got my start into Game making
                 visibility: true
 
 # Projects
 author_project_details:
-              - project_thumbnail: midnighttransmission.png
-                project_title: Midnight Transmission
-                project_description: A top down exploration game made in Godot. I acted as a Lead Dev and World Maker
+              - project_thumbnail: coalesce.png
+                project_title: Coalesce
+                project_description: An asymmetrical co-op arcade game which got ported onto a University of Staffordshire Arcade machine
                 project_url: http://floretdev.com/blog/midnight-transmission/
                 visibility: true
-              - project_thumbnail: goblinwithagun.png
-                project_title: Goblin With a Gun
-                project_description: A top down arena shooter made in unity for a uni module. Feature complete.
+              - project_thumbnail: pushyplushy.png
+                project_title: Pushy Plushy
+                project_description: A verticle slice of a 4 player party game made in a collaborative module where I was a junior designer
                 project_url: http://floretdev.com/blog/goblin-with-a-gun/
                 visibility: true
-              - project_thumbnail: unrealstealth.png
-                project_title: Unreal Stealth
-                project_description: An Unreal Game made in C++ with AI and Stealth.
+              - project_thumbnail: controllerclash.png
+                project_title: Controller Clash
+                project_description: A platform fighter prototype made in Unity utilising 4 different controllers
                 project_url: http://floretdev.com/blog/unreal-stealth/
                 visibility: true
-              - project_thumbnail: chatterbox.png
-                project_title: Chatterbox
-                project_description: A Dialogue Creation & Usage System made using Unity's Experimental Node Graph System
+              - project_thumbnail: tundramill.png
+                project_title: KOTH_TundraMill
+                project_description: A Team Foretress 2 multiplayer map, planned out and iterated on with testing and made in the Hammer engine
+                project_url: http://floretdev.com/blog/chatterbox/
+                visibility: true
+              - project_thumbnail: castlewalls.png
+                project_title: Castle Walls
+                project_description: A Celeste map made in an experimental level design module focusing on mechanic led design
                 project_url: http://floretdev.com/blog/chatterbox/
                 visibility: true
 
 # social links
-twitter_username: floretdev
-github_username:  Transference-OperatorHaven
-instagram_username: floretdev
+#twitter_username: floretdev
+github_username:  https://github.com/Liammib
+#instagram_username: floretdev
 # facebook_username: johndoe
-linkedin_username: floretsoftware
+linkedin_username: https://www.linkedin.com/in/liam-burns-427a78334/
 # behance_username: johndoe
 # medium_username: johndoe
 # telegram_username: johndoe
@@ -90,10 +95,10 @@ linkedin_username: floretsoftware
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: floretdev@gmail.com
+formspree_email: liammiburns@gmail.com
 
 # releases - widget can be (sidebar, modal or embed)
-olvy_organization: floretdev
+olvy_organization: Liammb
 olvy_widget_type: sidebar
 
 # syntax highlighter
