@@ -29,6 +29,4 @@ Below is the steam page for the game:
 
 Below is some of the Design Documentation that I contributed to:
 
-![C++ Code](https://static.wixstatic.com/media/1b2fcd_19085222a7a442f3928d47621835bba3~mv2.png/v1/fit/w_821,h_552,q_90/1b2fcd_19085222a7a442f3928d47621835bba3~mv2.png)
 
-Gorilla Model from https://sketchfab.com/3d-models/caesar-vgdc-2f360d0ff51b4f42b624c98d80edd2c2

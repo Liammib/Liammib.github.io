@@ -16,7 +16,7 @@ usemathjax: true
 
 > **Role**: Solo Dev
 
-> **Duration of Work**: 8 Weeks
+> **Duration of Work**: 16 Weeks
 
 > **End Of Project**: 17th May 2025
 

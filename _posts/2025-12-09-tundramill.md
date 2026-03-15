@@ -19,83 +19,20 @@ usemathjax: true
 
 > **End Of Project**: 9th December 2025
 
-This was a solo project I made for a university module. I drafted up multiple map designs and 
+This was a solo project I made for a university module. I drafted up multiple map designs and iterated on my project with numerous testing sessions.
 
-The videos below showcase the gameplay as well as the variety of guns featured in the game.
+I had never used Hammer before so there was a learning curve to the creation which I managed to quickly adapt to. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LrFkhAKxbik?si=B6mjQnuLYAsmbfc_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <iframe width="560" height="315" src="https://www.youtube.com/embed/3_JKxw2B0TA?si=RniJPFtoqkWy_nrF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+The level is complete and on the Steam Workshop here:
 
-Below is a code snippet of how dynamic powerup attributes are handled in a way that creates clean processes
-```
+https://steamcommunity.com/sharedfiles/filedetails/?id=3592312340
 
-    void TriggerDeath()
-    {
-        OnPlayerDeath?.Invoke();
-        Camera.main.enabled = false;
-        SceneManager.LoadScene(currentScene.name, LoadSceneMode.Single);
-    }
+Here are some of the designs I originally came up with for this map:
 
-    public void UpdateDodgeStats()
-    { 
+mapdesign1.png
 
-        dodgeCooldownLengthCurrent = dodgeCooldownLengthBase * (1 - dodgeCooldownLengthModifier);
-        dodgeVelocityCurrent = dodgeVelocityBase * (1 + dodgeVelocityModifier);
+mapdesign2.png
 
-    }
+Here is the final map design diagram:
 
-    public void UpdateGunStats()
-    {
-        gunDamageCurrent = gunDamageBase * (1 + gunDamageModifier);
-        gunSpeedCurrent = gunSpeedBase * (1 + gunSpeedModifier);
-        gunFireRateCurrent = gunFireRateBase * (1 + gunFireRateModifier);
-        gunLifetimeCurrent = gunLifetimeBase * (1 + gunLifetimeModifier);
-        reloadTimeCurrent = reloadTimeBase * (1 + reloadTimeModifier);
-        gunMagCurrent = gunMagBase * (1 + gunMagModifier);
-        specialReloadRoundsCutOff = gunMagBase * 0.875f;
-    }
-
-    public void UpdateSwordStats()
-    {
-        swordRadiusCurrent = swordRadiusBase * (1 + swordRadiusModifier);
-        swordDurationCurrent = swordDurationBase * (1 + swordDurationModifier);
-        swordCooldownLengthCurrent = swordCooldownLengthBase * (1 + swordCooldownLengthModifier);
-        swordDamageCurrent = swordDamageBase * (1 + swordDamageModifier);
-    }
-```
-
-Below is a code snippet of the dynamic powerup system's dynamic colour particle effects.
-
-```
- void CalculateParticleColorAndApply()
-    {
-        particleColor.r = allColors.x / numberOfBuffs;
-        particleColor.g = allColors.y / numberOfBuffs;
-        particleColor.b = allColors.z/ numberOfBuffs;
-        particleColor.a = 255;
-        psMain.startColor = particleColor;
-    }
-
-    public void SetParticleColor(Color color)
-    {
-        numberOfBuffs += 1;
-        if(numberOfBuffs > 0)
-        {
-            ps.Play(true);
-        }
-        allColors += new Vector4 (color.r,color.g,color.b,color.a);
-        CalculateParticleColorAndApply();
-
-    }
-
-    public void RemoveColor(Color color)
-    {
-        numberOfBuffs -= 1;
-        if(numberOfBuffs <= 0)
-        {
-            ps.Stop(true ,ParticleSystemStopBehavior.StopEmittingAndClear);
-        }
-        allColors -= new Vector4(color.r, color.g, color.b, color.a);
-        CalculateParticleColorAndApply();
-
-    }
-```
+mapdesign3.png
