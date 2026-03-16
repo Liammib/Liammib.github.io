@@ -31,3 +31,13 @@ From this project, I came out with a completed prototype, a design document, and
 Here is a timeline of the project's development:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NQibUsluYvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+Here is my design document for this project:
+
+<iframe src="{{ '/assets/files/ControllerClash.pdf' | relative_url }}" 
+        width="100%" 
+        height="600px" 
+        style="border:1px solid #ccc;">
+</iframe>

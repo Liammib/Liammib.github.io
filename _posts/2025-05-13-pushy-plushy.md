@@ -27,7 +27,8 @@ Below is the steam page for the game:
 
 <iframe src="https://store.steampowered.com/widget/4365120/" frameborder="0" width="646" height="190"></iframe>
 
-Below is some of the Design Documentation that I contributed to:
+
+Here is some of the Design Documentation that I contributed to:
 
 <iframe src="{{ '/assets/files/PushyPlushy.pdf' | relative_url }}" 
         width="100%" 
