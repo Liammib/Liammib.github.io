@@ -25,7 +25,7 @@ I was a junior designer on the team who contributed with game, mechanic, level a
 
 Below is the steam page for the game:
 
-<iframe src="https://store.steampowered.com/app/4365120/Pushy_Plushy/" frameborder="0" width="646" height="190"></iframe>
+<iframe src="https://store.steampowered.com/widget/4365120/Pushy_Plushy/" frameborder="0" width="646" height="190"></iframe>
 
 Below is some of the Design Documentation that I contributed to:
 
