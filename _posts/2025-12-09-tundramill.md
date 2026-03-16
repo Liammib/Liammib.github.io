@@ -25,7 +25,7 @@ I had never used Hammer before so there was a learning curve to the creation whi
 
 The level is complete and on the Steam Workshop here:
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=3592312340
+<iframe src="https://steamcommunity.com/sharedfiles/filedetails/?id=3592312340" frameborder="0" width="646" height="190"></iframe>
 
 Here are some of the designs I originally came up with for this map:
 
