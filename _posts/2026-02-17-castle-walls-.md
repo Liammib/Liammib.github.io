@@ -33,5 +33,10 @@ Here is a video showcasing the level in full:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4vZNUx2TJAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-Here is my design document work:
+Here is my level design document for the project:
 
+<iframe src="{{ '/assets/files/CastleWalls.pdf' | relative_url }}" 
+        width="100%" 
+        height="600px" 
+        style="border:1px solid #ccc;">
+</iframe>
