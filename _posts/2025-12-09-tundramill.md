@@ -41,11 +41,12 @@ The level is complete and on the Steam Workshop here:
   </div>
 </div>
 
-Here are some of the designs I originally came up with for this map:
 
+Here are some of the designs I originally came up with for this map:
 
 <img src="/assets/img/mapdesign1.png" style="width:500px; !important; padding:30px;"> 
 <img src="/assets/img/mapdesign2.png" style="width:500px; !important; padding:30px;"> 
+
 
 Here is the final map design diagram:
 
