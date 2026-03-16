@@ -25,11 +25,9 @@ I had never used Hammer before so there was a learning curve to the creation whi
 
 The level is complete and on the Steam Workshop here:
 
-<iframe src="https://steamcommunity.com/sharedfiles/filedetails/?id=3592312340" frameborder="0" width="646" height="190"></iframe>
-
 <div style="width:420px; background:#1b2838; border:1px solid #2a475e; border-radius:6px; overflow:hidden; font-family:Arial,sans-serif; color:white;">
   <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3592312340" target="_blank">
-    <img src="https://steamuserimages-a.akamaihd.net/ugc/ABCDEFGHIJKL/image.jpg" 
+    <img src="https://steamcommunity.com/sharedfiles/filedetails/?id=3592312340" 
          style="width:100%; display:block;">
   </a>
   <div style="padding:12px;">
