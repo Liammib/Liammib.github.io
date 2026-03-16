@@ -27,11 +27,11 @@ The level is complete and on the Steam Workshop here:
 
 <div style="width:420px; background:#1b2838; border:1px solid #2a475e; border-radius:6px; overflow:hidden; font-family:Arial,sans-serif; color:white;">
   <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3592312340" target="_blank">
-    <img src="https://steamcommunity.com/sharedfiles/filedetails/?id=3592312340" 
+    <img src="/assets/img/tundramill.png" 
          style="width:100%; display:block;">
   </a>
   <div style="padding:12px;">
-    <h3 style="margin:0 0 6px 0; font-size:18px;">Cool TF2 Hat</h3>
+    <h3 style="margin:0 0 6px 0; font-size:18px;">KOTH_TundraMill_</h3>
     <p style="font-size:13px; color:#c7d5e0;">Click to view on Steam Workshop</p>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3592312340" 
        target="_blank" 
