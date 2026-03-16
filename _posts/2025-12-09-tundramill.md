@@ -27,6 +27,22 @@ The level is complete and on the Steam Workshop here:
 
 <iframe src="https://steamcommunity.com/sharedfiles/filedetails/?id=3592312340" frameborder="0" width="646" height="190"></iframe>
 
+<div style="width:420px; background:#1b2838; border:1px solid #2a475e; border-radius:6px; overflow:hidden; font-family:Arial,sans-serif; color:white;">
+  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3592312340" target="_blank">
+    <img src="https://steamuserimages-a.akamaihd.net/ugc/ABCDEFGHIJKL/image.jpg" 
+         style="width:100%; display:block;">
+  </a>
+  <div style="padding:12px;">
+    <h3 style="margin:0 0 6px 0; font-size:18px;">Cool TF2 Hat</h3>
+    <p style="font-size:13px; color:#c7d5e0;">Click to view on Steam Workshop</p>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3592312340" 
+       target="_blank" 
+       style="display:inline-block; margin-top:8px; padding:6px 12px; background:#66c0f4; color:#1b2838; text-decoration:none; font-weight:bold; border-radius:3px;">
+       View on Steam
+    </a>
+  </div>
+</div>
+
 Here are some of the designs I originally came up with for this map:
 
 "/assets/img/posts/mapdesign1.png"
