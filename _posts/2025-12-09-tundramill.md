@@ -28,7 +28,7 @@ The level is complete and on the Steam Workshop here:
 <div style="width:420px; background:#1b2838; border:1px solid #2a475e; border-radius:6px; overflow:hidden; font-family:Arial,sans-serif; color:white;">
   <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3592312340" target="_blank">
     <img src="/assets/img/tundramill.png" 
-         style="width:75%; display:block;">
+         style="width:100%; display:block;">
   </a>
   <div style="padding:12px;">
     <h3 style="margin:0 0 6px 0; font-size:18px;">KOTH_TundraMill_</h3>
@@ -44,9 +44,9 @@ The level is complete and on the Steam Workshop here:
 Here are some of the designs I originally came up with for this map:
 
 
-<img src="/assets/img/mapdesign1.png" style="width:400px !important padding:50px"> 
-<img src="/assets/img/mapdesign2.png" style="width:400px !important padding:50px"> 
+<img src="/assets/img/mapdesign1.png" style="width:400px !important"> 
+<img src="/assets/img/mapdesign2.png" style="width:400px !important"> 
 
 Here is the final map design diagram:
 
-<img src="/assets/img/mapdesign3.png" style="width:400px !important padding:50px"> 
+<img src="/assets/img/mapdesign3.png" style="width:400px !important"> 
