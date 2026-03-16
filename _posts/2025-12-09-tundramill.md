@@ -44,9 +44,9 @@ The level is complete and on the Steam Workshop here:
 Here are some of the designs I originally came up with for this map:
 
 
-<img src="/assets/img/mapdesign1.png" style="width:500px !important padding:50px"> 
-<img src="/assets/img/mapdesign2.png" style="width:50px !important padding:50px"> 
+<img src="/assets/img/mapdesign1.png" style="width:400px !important padding:50px"> 
+<img src="/assets/img/mapdesign2.png" style="width:400px !important padding:50px"> 
 
 Here is the final map design diagram:
 
-<img src="/assets/img/mapdesign3.png" style="width:500px !important padding:50px"> 
+<img src="/assets/img/mapdesign3.png" style="width:400px !important padding:50px"> 
