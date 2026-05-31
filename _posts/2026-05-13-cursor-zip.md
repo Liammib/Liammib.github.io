@@ -1,12 +1,12 @@
 ---
-title: Pushy Plushy
+title: Cursor.zip
 layout: post
-summary: A Tiga award nominated couch versus party game made in a collaborative module.
+summary: A vertical slice of a game I was the design lead for in a collaborative module.
 author: Liammb
 date: '2026-03-15'
 category: portfolio
-thumbnail: "/assets/img/posts/pushyplushy.png"
-keywords: unreal engine, pushy plushy, design, gamedev
+thumbnail: "/assets/img/posts/cursor.png"
+keywords: unreal engine, cursor.zip, design, gamedev, collab
 permalink: "/blog/cursorzip/"
 usemathjax: true
 ---
@@ -19,18 +19,18 @@ usemathjax: true
 
 > **End Of Project**: 9th May 2026
 
-Made for my "Senior Collaborative" Module, Pushy Plushy is a polished couch versus party game made by a group called Thinking Brick Studios.
+Made for my "Senior Collaborative" Module, Cursor.zip is a polished couch versus party game made by a group called Thinking Brick Studios.
 
 I was a junior designer on the team who contributed with game, mechanic, level and UI/UX design work as well as documentation and juicing. 
 
-Below is the steam page for the game:
+Below is the itch page for the game:
 
-<iframe src="https://store.steampowered.com/widget/4365120/" frameborder="0" width="646" height="190"></iframe>
+<iframe src="https://itch.io/e/41257637/steveybr-published-cursorzip" frameborder="0" width="646" height="190"></iframe>
 
 
-Here is some of the Design Documentation that I contributed to:
+I was in charge of maintaining and updating the design document, I looked over all of and made most of the pages in the document below:
 
-<iframe src="{{ '/assets/files/PushyPlushy.pdf' | relative_url }}" 
+<iframe src="{{ '/assets/files/Cursor.pdf' | relative_url }}" 
         width="100%" 
         height="600px" 
         style="border:1px solid #ccc;">
