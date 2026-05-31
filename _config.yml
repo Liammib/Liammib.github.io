@@ -1,4 +1,4 @@
-title: Liam's Portfolio
+title: Liam Burns Game Designer
 subtitle: A Portfolio Page For My Gamedev Work
 description: >- # this means to ignore newlines until "baseurl:"
   I am a Computer Games Design student studying at the University of Staffordshire
@@ -24,29 +24,21 @@ author_location: Stoke-On-Trent, UK
 author_website_url: "liammiburns.github.io"
 typewrite-text: A passionate gamedev engineer who loves to code #Isnt real
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
-# Experiences
-#author_work_experiences:
-            #- company_name: University of Staffordshire
-            #  company_logo: staffs.png
-            #  company_url: https://www.staffs.ac.uk/student-life/student-ambassador-scheme
-            #  designation: Student Ambassador
-            #  description: Worked both solo and as a collective to foster people's interest in the university as well as helping the staff at the university.
-            #  visibility: false
 
 # Education
-author_education_details:
-              - college_logo: staffs.png
-                college_name: University Of Staffordshire
-                college_url: https://www.staffs.ac.uk
-                college_degree: BSc Computer Games Design <br> (Sept. 2023 - Ongoing)
-                description: Bachelor of Science Degree which covers all aspects of Games Design
-                visibility: true
-              - college_logo: asfc.png
-                college_name: Ashton Sixth Form College
-                college_url: https://www.asfc.ac.uk/
-                college_degree: A-level Computer Science <br> Digital Games Production (Extended Certificate) <br> Information Technology   (Extended Certificarte) <br> (Sept. 2021 - July 2023)
-                description: Sixth Form College where I studied two computer related courses and got my start into Game making
-                visibility: true
+#author_education_details:
+#              - college_logo: staffs.png
+#                college_name: University Of Staffordshire
+#                college_url: https://www.staffs.ac.uk
+#                college_degree: BSc Computer Games Design <br> (Sept. 2023 - Ongoing)
+#                description: Bachelor of Science Degree which covers all aspects of Games Design
+#                visibility: true
+#              - college_logo: asfc.png
+#                college_name: Ashton Sixth Form College
+#                college_url: https://www.asfc.ac.uk/
+#                college_degree: A-level Computer Science <br> Digital Games Production (Extended Certificate) <br> Information Technology   (Extended Certificarte) <br> (Sept. 2021 - July 2023)
+#                description: Sixth Form College where I studied two computer related courses and got my start into Game making
+#                visibility: true
 
 # Projects
 author_project_details:
