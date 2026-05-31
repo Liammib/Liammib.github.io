@@ -1,4 +1,4 @@
-title: Liam Burns Game Designer
+title: Liam Burns <br> Game Designer
 subtitle: A Portfolio Page For My Gamedev Work
 description: >- # this means to ignore newlines until "baseurl:"
   I am a Computer Games Design graduate who studied at the University of Staffordshire
@@ -18,7 +18,7 @@ urls:
 
 author_logo: profile.png
 author: Liam Burns
-author_bio: I am an undergraduate at University Of Staffordshire studying Computer Games Design. Mechanics and Technical Design are my favourite aspects of game design but I am able to do any general design work. I enjoy working in a team to refine and condense ideas to help make a better product.
+author_bio: I am a Computer Games Design graduate who studied at the University of Staffordshire. Mechanics and Technical Design are my favourite aspects of game design but I am able to do any general design work. I enjoy working in a team to refine and condense ideas to help make a better product.
 author_email: "liammiburns@gmail.com"
 author_location: Stoke-On-Trent, UK
 author_website_url: "liammiburns.github.io"
@@ -55,7 +55,7 @@ author_project_details:
               - project_thumbnail: castlewalls.png
                 project_title: Cursor.zip
                 project_description: A verticle slice of a 3d speedrunning platformer in a collaborative module where I was the lead deigner
-                project_url: https://liammib.github.io/blog/castle-walls/#/
+                project_url: https://liammib.github.io/blog/cursorzip/#/
                 visibility: true
               - project_thumbnail: controllerclash.png
                 project_title: Controller Clash
