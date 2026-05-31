@@ -27,21 +27,7 @@ From this project, I learned better how the inner workings of a small scale team
 
 Below is the itch page for the game:
 
-<div class="itch-widget">
-
-    <iframe
-
-        frameborder="0"
-
-        src="https://steveybr.itch.io/cursorzip"
-
-        width="552"
-
-        height="167">
-
-    </iframe>
-
-</div>
+<iframe width="552" height="167" src="https://itch.io/embed/4570468" frameborder="0"><a href="https://steveybr.itch.io/cursorzip">Cursor.Zip by SteveyBR, James Seymour, jjsabel04, Megsgem, LittleBlird, ToxicSpillz, Bardulete, Kazb0, Liammb</a></iframe>
 
 
 I was in charge of maintaining and updating the design document, I looked over all of and made most of the pages in the document below:
