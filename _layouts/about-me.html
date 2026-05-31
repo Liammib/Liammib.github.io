@@ -106,14 +106,15 @@ layout: default
       {%- include coding_activity.html -%}
     </div>
     {% endif %}
-  </div>
-  <div class="col-lg-8">
     {% if site.author_bio %}
     <div class="card">
-      <h1 class="card-title">About</h1>
-      <p>{{ site.author_bio }}</p>
+        <h1 class="card-title">About</h1>
+         <p>{{ site.author_bio }}</p>
     </div>
-    {% endif %} {% if site.show_author_project_details == true %}
+{% endif %} {% if site.show_author_project_details == true %}
+    
+  </div>
+  <div class="col-lg-8">
     <div id="author_projects" class="card">
       <h1 class="card-title">Projects</h1>
       <br />

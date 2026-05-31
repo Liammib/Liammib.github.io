@@ -6,7 +6,7 @@ author: Liammb
 date: '2026-03-15'
 category: portfolio
 thumbnail: "/assets/img/posts/pushyplushy.png"
-keywords: unreal engine, pushy plushy, design, gamedev
+keywords: unreal engine, pushy plushy, design, gamedev, collab
 permalink: "/blog/pushy-plushy/"
 usemathjax: true
 ---
