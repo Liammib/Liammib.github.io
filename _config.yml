@@ -1,7 +1,7 @@
 title: Liam Burns Game Designer
 subtitle: A Portfolio Page For My Gamedev Work
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a Computer Games Design student studying at the University of Staffordshire
+  I am a Computer Games Design graduate who studied at the University of Staffordshire
 
 url: "" # the base hostname & protocol for your site, e.g. https://liammb.github.io
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -52,6 +52,11 @@ author_project_details:
                 project_description: A verticle slice of a 4 player party game made in a collaborative module where I was a junior designer
                 project_url: https://liammib.github.io/blog/pushy-plushy/#/
                 visibility: true
+              - project_thumbnail: castlewalls.png
+                project_title: Cursor.zip
+                project_description: A verticle slice of a 3d speedrunning platformer in a collaborative module where I was the lead deigner
+                project_url: https://liammib.github.io/blog/castle-walls/#/
+                visibility: true
               - project_thumbnail: controllerclash.png
                 project_title: Controller Clash
                 project_description: A platform fighter prototype made in Unity utilising 4 different controllers
@@ -99,8 +104,8 @@ highlighter: rouge
 permalink: pretty
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
-show_author_education_details: true
+show_author_work_experiences: false
+show_author_education_details: false
 show_author_project_details: true
 
 # pagination of posts
