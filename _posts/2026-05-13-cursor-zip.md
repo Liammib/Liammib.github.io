@@ -25,7 +25,7 @@ I was a junior designer on the team who contributed with game, mechanic, level a
 
 Below is the itch page for the game:
 
-<iframe src="https://itch.io/e/41257637/steveybr-published-cursorzip" frameborder="0" width="646" height="190"></iframe>
+<iframe src="https://steveybr.itch.io/cursorzip" frameborder="0" width="646" height="190"></iframe>
 
 
 I was in charge of maintaining and updating the design document, I looked over all of and made most of the pages in the document below:
