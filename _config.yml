@@ -52,7 +52,7 @@ author_project_details:
                 project_description: A verticle slice of a 4 player party game made in a collaborative module where I was a junior designer
                 project_url: https://liammib.github.io/blog/pushy-plushy/#/
                 visibility: true
-              - project_thumbnail: castlewalls.png
+              - project_thumbnail: cursor.png
                 project_title: Cursor.zip
                 project_description: A verticle slice of a 3d speedrunning platformer in a collaborative module where I was the lead deigner
                 project_url: https://liammib.github.io/blog/cursorzip/#/

@@ -19,6 +19,8 @@ usemathjax: true
 
 > **End Of Project**: 9th May 2026
 
+<iframe width="560" height="315" src="https://youtu.be/njbELxG8PwE?si=Yfx-Y3qmaEghiLHS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Made for my "Senior Collaborative" Module, Cursor.zip is a verticle slice of a 3d speedrunning platformer game made by a group called Mach 26.
 
 I was a lead designer on the team who was in charge of every major design decision. I delegated tasks to my other designers as well as doing many tasks myself such as design documentation, level building, and creating forms for feedback.
