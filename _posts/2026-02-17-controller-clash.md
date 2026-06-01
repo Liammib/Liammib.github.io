@@ -28,9 +28,9 @@ I designed and implemented each character to be complimented by the controller u
 
 From this project, I came out with a completed prototype, a design document, and an artifact development report.
 
-Here is a timeline of the project's development:
+Here is a video of the gameplay:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NQibUsluYvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_avz_H4o34Q?si=Grm8_6SvtDhdNc48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
