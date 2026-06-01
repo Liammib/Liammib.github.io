@@ -44,4 +44,4 @@ The level is complete and on the Steam Workshop here:
 
 Here is the final map design diagram:
 
-<img src="/assets/img/mapdesign3.png" style="width:800px; !important;"> 
+<img src="/assets/img/maptundramill.png" style="width:800px; !important;"> 
